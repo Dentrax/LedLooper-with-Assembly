@@ -99,7 +99,7 @@ The COUNT function refers to the : `number-of-LEDs` moving in the selected speed
 * Initially, only one LED will turn at a slow-speed in the clockwise direction. When the card is first powered-up, the system should start to operate by lighting the L0 LED.
 
 
-* On the **[led_looper.asm](https://github.com/Dentrax/LedLooper-with-Assembly/tree/master/led_looper.asm)** file, each line is explained together with the own individual task.
+* On the **[led_looper.asm](https://github.com/Dentrax/LedLooper-with-Assembly/blob/master/led-looper.asm)** file, each line is explained together with the own individual task.
 
 ## Features
 
